@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Folasade
+- 👋 Hi, I’m Folasade
 - 👀 I’m interested in solving problems
 - 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on Data Analysis projects
